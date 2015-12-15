@@ -3,17 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "ariantostore1"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "ariantoarianto1234"
+    },
+    "location": {
+      "value": "West US"
+      },
+      "SizeOfDiskInGB": {
+        "value": "20""
   }
 }
 
